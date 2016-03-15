@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a4b049e-d2bc-4190-b668-1e25a8a95226" name="Default" comment="Removed idea form version control">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+    <list default="true" id="4a4b049e-d2bc-4190-b668-1e25a8a95226" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="cassadnra.iws" />
@@ -622,7 +614,7 @@
       <updated>1457996646412</updated>
       <workItem from="1457996654062" duration="6323000" />
       <workItem from="1458011560560" duration="314000" />
-      <workItem from="1458011946600" duration="156000" />
+      <workItem from="1458011946600" duration="177000" />
     </task>
     <task id="LOCAL-00001" summary="Removed idea form version control">
       <created>1458011811164</created>
@@ -636,11 +628,17 @@
       <option name="project" value="LOCAL" />
       <updated>1458012089233</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Removed idea form version control">
+      <created>1458012120860</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458012120860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6793000" />
+    <option name="totallyTimeSpent" value="6814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1549" height="858" extended-state="0" />
