@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4b049e-d2bc-4190-b668-1e25a8a95226" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/help.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html" afterPath="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html" />
     </list>
@@ -38,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.8727274">
-              <caret line="463" column="33" selection-start-line="463" selection-start-column="33" selection-end-line="463" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.47975078">
+              <caret line="389" column="63" selection-start-line="389" selection-start-column="63" selection-end-line="389" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -53,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="help.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="help.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/help.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.44262296">
+            <state vertical-scroll-proportion="-11.423077">
               <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
               <folding />
             </state>
@@ -99,8 +97,8 @@
         <option value="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/bower_components/font-awesome/css/font-awesome.min.css" />
         <option value="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/dist/css/sb-admin-2.css" />
         <option value="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/help.html" />
-        <option value="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html" />
         <option value="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/help.html" />
+        <option value="$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html" />
       </list>
     </option>
   </component>
@@ -666,7 +664,7 @@
       <created>1457996646412</created>
       <option name="number" value="Default" />
       <updated>1457996646412</updated>
-      <workItem from="1457996654062" duration="12354000" />
+      <workItem from="1457996654062" duration="12950000" />
     </task>
     <task id="LOCAL-00001" summary="cassdnra">
       <created>1458003049610</created>
@@ -680,11 +678,17 @@
       <option name="project" value="LOCAL" />
       <updated>1458008360982</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cassdnra">
+      <created>1458011045004</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1458011045004</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12354000" />
+    <option name="totallyTimeSpent" value="12950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="1" width="1549" height="858" extended-state="0" />
@@ -743,6 +747,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.423077">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.5">
@@ -753,22 +765,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.8727274">
-          <caret line="463" column="33" selection-start-line="463" selection-start-column="33" selection-end-line="463" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.47975078">
+          <caret line="389" column="63" selection-start-line="389" selection-start-column="63" selection-end-line="389" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#4;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#a#0;n#li#6;n#ul#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-sb-admin-2-1.0.8/startbootstrap-sb-admin-2-1.0.8/pages/help.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44262296">
-          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
